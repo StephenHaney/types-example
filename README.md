@@ -1,7 +1,4 @@
-Hello! I created a repo with my example from this thread (#33015 (comment))
-
-Here's a link to the repo:
-https://github.com/StephenHaney/types-example
+Hello! I created a repo with my example from this thread: https://github.com/DefinitelyTyped/DefinitelyTyped/issues/33015#issuecomment-465338989
 
 This is a brand new TS Create React App, with nothing but styled-components installed. I just flipped "skipLibCheck" off to show the problem.
 
